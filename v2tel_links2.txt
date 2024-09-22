@@ -3624,3 +3624,9 @@ vless://tell--ZEDMODEON@speedtest.net:443?security=tls&encryption=none&type=ws&h
 vless://tell--ZEDMODEON@speedtest.net:443?security=tls&encryption=none&type=ws&host=snapp.express&path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=speedtest.net&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a6f133fd-1df0-4331-b489-413fad5e82e2@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://3ec7a32b-4e02-4ddd-a548-e9f975a06add@speedtest.net:443?path=%2F%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.49.149.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@15.222.147.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.216.53.149:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+trojan://telegram-id-privatevpns@13.49.149.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@15.222.147.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
