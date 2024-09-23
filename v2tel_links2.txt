@@ -4030,3 +4030,6 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42NC4xNjcuNSIsICJwb3J0IjogMjA4NiwgImFpZCI6
 vless://e1ad28ba-5870-494b-9708-0a4b301ae672@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@38.147.190.25:8388#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FiLBB4pavFZGckVIC%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM3FjaHhUbUlYWTh0MThrc2JHdHBQ@52.164.211.188:26231/?outline=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FiLBB4pavFZGckVIC%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
