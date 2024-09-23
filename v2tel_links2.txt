@@ -4242,3 +4242,4 @@ trojan://telegram-id-privatevpns@52.56.237.147:22222?security=tls&alpn=http/1.1&
 vless://e1ad28ba-5870-494b-9708-0a4b301ae672@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e1ad28ba-5870-494b-9708-0a4b301ae672@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e1ad28ba-5870-494b-9708-0a4b301ae672@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0a39ee54-7942-49d5-b666-de29ca843033@94.182.128.136:443?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
