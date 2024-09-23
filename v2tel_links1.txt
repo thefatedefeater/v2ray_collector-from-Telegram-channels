@@ -1535,3 +1535,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&secu
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.60:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&fp=randomized&type=ws&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#[🇨🇦]t.me/ConfigsHub
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.60:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#[🇫🇷]t.me/ConfigsHub
+vless://220b87da-7818-583e-8e06-236585ca1cb6@185.146.173.46:80?host=Pl1.vless.site.&security=none&type=ws&path=%2Fvless&encryption=none#[🇸🇪]t.me/ConfigsHub
