@@ -4586,3 +4586,7 @@ vless://5420e86c-1558-4038-8760-088d18796dd5@104.16.11.133:80?path=%2F%40Vpn_Mik
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#[🏁]t.me/ConfigsHub
+vless://KANAL-TELEGRAM-EXPRESSVPN_420@Speedtest.net:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Dredigehamine149.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://Telegram_EXPRESSVPN_420@Speedtest.net:80?path=%2FTelegram%2CEXPRESSVPN_420%2CTelegram%2CEXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Telegram_EXPRESSVPN_420.Net&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://Telegram_EXPRESSVPN_420@Speedtest.net:443?path=%2FTelegram%2CEXPRESSVPN_420%2CTelegram%2CEXPRESSVPN_420%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Telegram_EXPRESSVPN_420.Net&fp=firefox&type=ws&sni=Speedtest.net#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
