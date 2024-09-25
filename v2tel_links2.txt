@@ -5357,3 +5357,15 @@ vless://Parsashonam-67@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560
 vless://Parsashonam-67@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://6790e05c-cb52-4181-8502-a33a2a7f0d76@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://e9a16594-c112-5714-915e-b221a907f33a@104.17.148.22:80?path=%2FELENaTheGreatDictator-----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=www.abrha.net.join.eliv2ry.cc.se1.vless.Sitespeedtest.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.65.179:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://Parsashonam-67@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@15.188.67.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@35.156.103.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@15.188.67.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?path=%2Fwspath&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.67.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@35.156.103.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?path=%2Fwspath&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.65.179:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=jie14.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.156.103.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
