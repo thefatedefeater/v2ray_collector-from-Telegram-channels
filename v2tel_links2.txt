@@ -5321,3 +5321,5 @@ vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@www.speedtest.net:8443?path=%2F%3Fe
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 trojan://telegram-id-directvpn@13.48.87.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&sni=e420ceed.aryoo-vpn-friends.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&type=ws&sni=119f3a0b.chikiy123w.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1#[🇨🇦]t.me/ConfigsHub
