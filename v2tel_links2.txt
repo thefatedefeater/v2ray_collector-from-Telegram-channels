@@ -5400,3 +5400,4 @@ vless://65a35ba8-cf4f-4360-874c-b9b8663245a4@www.parsvds.com:8443?path=%2Fjoin%4
 trojan://telegram-id-privatevpns@3.76.25.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.43.10.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://16fd5a19-b1dd-4726-fd99-c28e026fcc3e@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://926e7373-c61c-4290-948b-661ed7c09322@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
