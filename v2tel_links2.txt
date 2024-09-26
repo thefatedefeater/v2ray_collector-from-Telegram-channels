@@ -6169,3 +6169,4 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.66.219
 trojan://telegram-id-directvpn@18.217.23.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.5.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://1906ae05-f1f9-437e-8f22-af42b8ff3912@evs.v2shopvip.cfd:443?security=reality&encryption=none&pbk=fNNO0bcD4C5iRWViADA-X14dUEHOv9yxgof0V07vlzo&headerType=none&fp=chrome&type=tcp&sni=mdundo.com&sid=70f11823290b68ff#[🇩🇪]t.me/ConfigsHub
+vless://BLUEV2RAYNG----Telgram-confiG@www.speedtest.net:8880?type=httpupgrade&path=%2F%3Fed%3D2048&host=ShOMbOltaLa.ShOpshirvan.IR&security=none#[🇨🇦]t.me/ConfigsHub
