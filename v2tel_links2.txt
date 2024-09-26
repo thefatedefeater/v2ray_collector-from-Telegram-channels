@@ -6170,3 +6170,6 @@ trojan://telegram-id-directvpn@18.217.23.129:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.236.5.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://1906ae05-f1f9-437e-8f22-af42b8ff3912@evs.v2shopvip.cfd:443?security=reality&encryption=none&pbk=fNNO0bcD4C5iRWViADA-X14dUEHOv9yxgof0V07vlzo&headerType=none&fp=chrome&type=tcp&sni=mdundo.com&sid=70f11823290b68ff#[🇩🇪]t.me/ConfigsHub
 vless://BLUEV2RAYNG----Telgram-confiG@www.speedtest.net:8880?type=httpupgrade&path=%2F%3Fed%3D2048&host=ShOMbOltaLa.ShOpshirvan.IR&security=none#[🇨🇦]t.me/ConfigsHub
+vless://75f726e4-1316-4e56-97fe-df535f0ec55f@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=tipac.co.com&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://75f726e4-1316-4e56-97fe-df535f0ec55f@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=tipac.co.com&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://75f726e4-1316-4e56-97fe-df535f0ec55f@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
