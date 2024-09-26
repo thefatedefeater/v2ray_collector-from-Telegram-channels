@@ -5847,3 +5847,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.229.225:22222?path=/telegram-
 trojan://telegram-id-privatevpns@51.20.57.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.50.162.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@51.20.57.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+vless://d4839c6a-4a44-4f6f-a2c1-5344c43b408d@85.133.200.28:45627?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=private-codmhttp.teqqlzdw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=king1980.b91sptsl.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telegram-falcunargo.31186fb105.workers.Dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
