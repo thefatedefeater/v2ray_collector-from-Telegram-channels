@@ -7014,3 +7014,4 @@ vless://TELEGRAM-NUFiLTER@151.101.194.219:443?path=%2Ftelegram-NUFiLTER%2Ctelegr
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:8443?security=tls&sni=jOInmAHDiSERVer-AZ7.paGes.dEV&type=ws&host=joinmahdiseRver-Az7.pAgES.dev&path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://aad2832a-0912-5629-a4dd-de930f06945c@104.17.147.22:2095?Telegram=%40v2maxx#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8344083b-8a1f-4507-93aa-374459e0e235@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
