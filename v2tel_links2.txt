@@ -7134,3 +7134,5 @@ vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:443?security=tls&encr
 vless://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131/?type=grpc&encryption=none&serviceName=zula.ir#[🏁]t.me/ConfigsHub
 vless://2ff61922-c798-410b-9417-6cb688355e3e@45.140.167.94:8443/?type=grpc&encryption=none&serviceName=grpc&sni=185.162.228.98&fp=chrome&security=reality&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&sid=2880ee24bb417d46#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://2a245a20-1f31-4cf6-bc26-8f0929c9a64f@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#[🇺🇸]t.me/ConfigsHub
+vless://ed8c856b-ced2-443e-bf7a-6216162cac8f@18.199.98.251:20660?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ed8c856b-ced2-443e-bf7a-6216162cac8f@18.199.98.251:20660?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
