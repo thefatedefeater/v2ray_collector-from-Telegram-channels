@@ -7732,3 +7732,9 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:
 vless://d7591ebf-5dce-4c6d-8560-e9040d6b08b1@104.21.69.44:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.Bede.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.Bede.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
 vless://7127acec-73a0-5fa4-a8b7-53b9372deb93@www.speedtest.net:2095?path=%2FTelegram-ELiV2ry-ELiV2ry-ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=6.www.abrha.com.xn--joinBede-ELiV2ry.click.abrarvan.ir.at1.vless.sitespeedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://3fc55264-7eb8-4aeb-a2f2-c9eff71c9252@185.146.173.58:8080?Telegram=%40v2maxx#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@172.66.44.131:443?sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev&security=tls&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://auto@172.66.44.131:443?sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev&security=tls&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiIxMDQuMTYuNjEuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXMzZS1tbW5uZnI5ZG9wMC52MmZyZWV2cG4uY29tIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjExOC1mY2N4bXhtMzUiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InVzM2UtbW1ubmZyOWRvcDAudjJmcmVldnBuLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#[🇺🇸]t.me/ConfigsHub
