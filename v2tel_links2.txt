@@ -8082,3 +8082,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@mahdiserver-cxp.pages.dev:443?path=
 trojan://telegram-id-privatevpns@52.28.176.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.28.176.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FWl8PsB136Gnr8bwV%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mahDIseRVeR-cxp.PAgES.dEv&fp=randomized&type=ws&sni=mAHdiSERVER-CXP.pAgEs.deV#[🇨🇦]t.me/ConfigsHub
+vless://af0d204d-18f8-434d-bea2-2bcc0df86d9f@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.55.174:2053?path=%2FWl8PsB136Gnr8bwV%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://af0d204d-18f8-434d-bea2-2bcc0df86d9f@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://af0d204d-18f8-434d-bea2-2bcc0df86d9f@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
