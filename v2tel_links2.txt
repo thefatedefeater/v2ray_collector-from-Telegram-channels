@@ -8924,3 +8924,11 @@ vless://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@www.speedtest.net:8443?path=%2FTele
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852/?type=ws&encryption=none&path=%2Fa#[🇮🇳]t.me/ConfigsHub
 vless://0da7ff9e-e059-4685-99e6-745bd65824e4@www.speedtest.net:2082?type=ws&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D1024&host=academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcademiGroup.IR.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.24:8881#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.210.95.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://2ddccb30-fd45-45ea-9b3b-aca79f67f78b@uk.xn-----wsdsadab1etadwg9p6cfvd06q.com:20?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.74.209.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@52.56.88.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@3.11.156.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@51.21.16.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Parsashonam-69@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@3.69.4.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
