@@ -8389,3 +8389,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.26.87:443?path=%2F%3Fproxyi
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@119.195.219.150:18050?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=yx.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.191:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://cfe807a1-479e-4c59-b64e-ddbd50716a06@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=kio.ir&security=none#[🇩🇪]t.me/ConfigsHub
