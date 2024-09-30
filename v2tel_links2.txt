@@ -8697,3 +8697,4 @@ vmess://eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIs
 trojan://telegram-id-privatevpns@3.69.235.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@118.140.166.215:50010?security=tls&sni=hx.ylks.xyz&type=ws&path=%2F%3Fproxyip#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.167.157:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6b4ad9ba-182c-423f-afd8-095f7e4719ac@194.5.178.153:443?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
