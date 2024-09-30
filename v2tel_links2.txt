@@ -8966,3 +8966,4 @@ trojan://telegram-id-directvpn@3.134.138.222:22222?sni=trojan.burgerip.co.uk&all
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:8888#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.141.83.167:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://542f3c13-53dd-43ac-a194-4b525a910376@104.26.14.148:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=47441234942388412428717014952546.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇨🇦]t.me/ConfigsHub
