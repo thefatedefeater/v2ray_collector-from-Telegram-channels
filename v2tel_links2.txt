@@ -8952,3 +8952,5 @@ vless://13aee024-86a7-435e-863f-f5799635e8c0@speedtest.net:443?security=tls&sni=
 vless://telegrram:v2rayvpn_official@www.speedtest.net:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shop&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://telegrram:v2rayvpn_official@bo3.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://telegrram:v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/ConfigsHub
+vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@www.speedtest.net:80?path=/MR.SP---@FREEV2RNG---@FREEV2RNG---@FREEV2RNG?ed=2056&security=none&encryption=none&host=be3.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@188.114.96.216:80?path=/MR.SP---@FREEV2RNG---@FREEV2RNG---@FREEV2RNG?ed=2056&security=none&encryption=none&host=be3.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/ConfigsHub
