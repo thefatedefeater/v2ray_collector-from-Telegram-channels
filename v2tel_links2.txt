@@ -8749,3 +8749,9 @@ vless://👉V2RAY1-NG👈@speedtest.net:443?path=%2F&security=tls&encryption=non
 vless://1d7f7c72-6c1b-4cf3-bb9d-183945802437@188.245.164.223:36533?path=%2F&security=reality&encryption=none&pbk=Z2ClzcTGYwhjHMddI2zMVqLYJ8ktEdkb2uU0yzEuAlo&fp=chrome&spx=%2F&type=http&sni=stackoverflow.com&sid=d2a447b45f3a044e#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://6e8c19cd-fcc5-48f5-8814-0de53fffd9ae@speedtest.net:443?path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=join-vmessprotocol.ir&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@107.23.154.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443?security=tls&sni=vz.ylks.xyz&type=ws&path=%2F%3Fproxyip#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.34.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@107.23.154.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.34.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@107.23.154.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
