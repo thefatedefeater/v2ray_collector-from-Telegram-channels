@@ -9073,3 +9073,4 @@ vless://841b83da-3916-4c83-808f-a0433118a1c7@SpeedTest.net:443?security=tls&encr
 vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@104.25.254.4:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&fp=random&type=ws&sni=vless.sub.amclubs.us.kg#[🇨🇦]t.me/ConfigsHub
 vless://841b83da-3916-4c83-808f-a0433118a1c7@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://841b83da-3916-4c83-808f-a0433118a1c7@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@13.37.24.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
