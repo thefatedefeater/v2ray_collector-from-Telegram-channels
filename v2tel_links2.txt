@@ -10401,3 +10401,6 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.222:8090#👉🆔 @v2ray_con
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@15.204.87.222:8000#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMTkuNDUuOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib25lYS5mbGhhLnJ1IiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTUiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.222:8090#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.236.57.172:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.249.120:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.131.196:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
