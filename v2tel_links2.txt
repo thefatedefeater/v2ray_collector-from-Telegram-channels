@@ -10404,3 +10404,13 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.222:8090#[🇺🇸]t.me/Conf
 trojan://telegram-id-privatevpns@15.236.57.172:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.49.249.120:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.131.196:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
+ss://bm9uZTphYWJiYWNjLWFiY2EtY2FhYi1hZGJjLWFiYmJhYWNjY2NiYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.92.110:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0b8b3fdb-659b-430a-82c0-5b5cb72ba667@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=swuhq9.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://da5d3557-4c81-4d5f-ab62-f8385f4fc73a@159.69.127.31:31021?security=none&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.42:7002#[🇺🇸]t.me/ConfigsHub
+vless://da5d3557-4c81-4d5f-ab62-f8385f4fc73a@159.69.127.31:31021?security=none&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.42:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@104.18.218.118:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8443&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@15.188.131.196:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.92.110:8009#[🇺🇸]t.me/ConfigsHub
