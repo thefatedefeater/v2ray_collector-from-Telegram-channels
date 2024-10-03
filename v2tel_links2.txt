@@ -10573,3 +10573,4 @@ trojan://telegram-id-privatevpns@18.198.223.31:22222?security=tls&alpn=http/1.1&
 vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@www.speedtest.net:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2ddccb30-fd45-45ea-9b3b-aca79f67f78b@95.164.37.168:20/?type=tcp&encryption=none#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.37.194.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@speedtest.net:443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
