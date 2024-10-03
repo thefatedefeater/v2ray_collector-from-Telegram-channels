@@ -10464,3 +10464,7 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctel
 vless://0f2ec256-8a53-430f-b046-0ea78a701a3c@162.251.82.187:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://0f2ec256-8a53-430f-b046-0ea78a701a3c@104.21.51.208:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://0f2ec256-8a53-430f-b046-0ea78a701a3c@104.19.54.50:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://abcabac-aabc-abca-abdc-ccbacbaabbac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://7335f744-15d0-4e85-b159-2f954b785e99@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=i-am-melo.com&fp=firefox&type=ws&sni=speedtest.net#[🇨🇦]t.me/ConfigsHub
