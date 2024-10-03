@@ -10450,3 +10450,4 @@ vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&encr
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#[🏁]t.me/ConfigsHub
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Telegram______lombo_channel@speedtest.net:80?path=ws%2F%3Fed%3D2048%40lombo_channel%40lombo_channel%40lombo_channel&security=none&encryption=none&host=aminderonami.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
