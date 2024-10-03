@@ -10451,3 +10451,11 @@ vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80?security=none&type
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#[🏁]t.me/ConfigsHub
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://Telegram______lombo_channel@speedtest.net:80?path=ws%2F%3Fed%3D2048%40lombo_channel%40lombo_channel%40lombo_channel&security=none&encryption=none&host=aminderonami.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fb4c2603-f5e7-4976-8dc5-38b2e4676780@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=kio.ir&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@54.74.106.227:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@142.202.49.68:8882#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.16.122.145:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.112:9101#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.42.185.241:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7002#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.127.59.36:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
