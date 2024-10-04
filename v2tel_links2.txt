@@ -11138,3 +11138,4 @@ vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:443?security=tls
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimitemergency.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimitemergency.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimitemergency.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@www.speedtest.net:8443?type=grpc&serviceName=Telegram:@Archive_Android#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
