@@ -11648,3 +11648,4 @@ vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@Telegram-id-TehranArgo.pages.dev:20
 vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@Telegram-id-TehranArgo.pages.dev:2053?path=/Join,%40TEHRANARGO#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FxnoRAKl0PKXxvdpc%2FMTg0LjE3OC4xNzIuMjU%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.71.162.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@Telegram-id-TehranArgo.pages.dev:2053?path=/Join,%40TEHRANARGO#[🇨🇦]t.me/ConfigsHub
