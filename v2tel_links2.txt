@@ -12021,3 +12021,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.82.57.209:22222?path=/telegram-c
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&security=tls&encryption=none&alpn=h2&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@13.49.90.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://db49e09e-cd9d-49fb-bc6e-812b9bddf02d@151.101.2.219:80?path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=www.visualcapitalist.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.82.57.209:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇺🇸]t.me/ConfigsHub
