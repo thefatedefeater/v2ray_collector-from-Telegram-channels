@@ -12825,3 +12825,20 @@ vless://9da70b03-e634-4cea-ccc2-ac62214451a6@zmaoz.faculty.ucdavis.edu:443?path=
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE4OC4xMTQuOTkuMTg3IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMjM0MzQ5NTYtMjI0MC00NDk3LWExN2YtYjVjZjBmNmQwY2RmIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvQHZwcG5fc3RvcmUsQHZwcG5fc3RvcmU/ZWQ9MjA4NiIsICJob3N0IjogIjMuVjIuYS53d3cuc3BlZWR0ZXN0Lm5ldC5KYWhlc2gtVG9saWQuV2ViU2l0ZS4iLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.8.I.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.179:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9c12fdb2-1b2f-471b-81af-9e5ed9409fce@116.203.10.68:3020?security=reality&encryption=none&pbk=oPZngZB1ChiM3IHdp8fX3Y3E1WAgtvSoOXeG-cOjkwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ce24e753.CoM&sid=ce24e753#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.113:9102#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.179:5498#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2376#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.95:5498#[🇺🇸]t.me/ConfigsHub
+vless://9c12fdb2-1b2f-471b-81af-9e5ed9409fce@116.203.10.68:3020?security=reality&encryption=none&pbk=oPZngZB1ChiM3IHdp8fX3Y3E1WAgtvSoOXeG-cOjkwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ce24e753.CoM&sid=ce24e753#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.113:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.222:8888#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.95:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@15.204.87.225:8000#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.222:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
