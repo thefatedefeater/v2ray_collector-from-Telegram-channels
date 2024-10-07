@@ -12882,3 +12882,6 @@ vmess://eyJhZGQiOiAibGl2ZS45ODlidWxsLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0
 vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimitemergency.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v29.drlimitemergency.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimitemergency.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7c911d4c-d9f1-4dc9-8c4e-abce39b81a3a@194.5.178.153:443/?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ@95.164.35.90:8388#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.95.86:443#[🇺🇸]t.me/ConfigsHub
