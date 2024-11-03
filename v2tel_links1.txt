@@ -10056,3 +10056,5 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTELEGRAM
 trojan://telegram-id-directvpn@3.77.168.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#[🏁]t.me/ConfigsHub
 vless://1a148082-3383-4394-d480-fbeeb5d884d6@www.speedtest.net:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=ac.www.speedtest.net.zula.ir.iranfastfod.iR.&type=httpupgrade#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&fp=randomized&alpn=h2,http/1.1&type=ws&path=/trLb1imnrxPEhfzfwk?ed#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.177.255.48:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
